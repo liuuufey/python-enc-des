@@ -28,7 +28,7 @@ apt install python python2
 
 ## How to use
 ```bash
-python2 xtools.py
+python2 run.py
 ```
 
 
